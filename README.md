@@ -9,5 +9,5 @@ The program uses the p5.js library to create a visual representation of some pro
 This is the "second part" from the forward kinematics repository.
 
 ## How to try it
-The website is hosted on github and can be accessed by clicking [here](https://joaofavoretti.github.io/WebSortingVisualizer/index.html)
+The website is hosted on github and can be accessed by clicking [here](https://joaofavoretti.github.io/inverse-kinematics/).
 
